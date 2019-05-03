@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = git@github.com:rainer-the-bird/rainer-the-bird.github.io.git
+	branch = master
