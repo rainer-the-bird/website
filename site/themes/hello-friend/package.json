@@ -26,7 +26,7 @@
     "clipboard": "^2.0.4",
     "css-loader": "^3.0.0",
     "cssnano": "^4.1.8",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb": "^18.0.0",
     "eslint-config-prettier": "^5.0.0",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
