@@ -5,7 +5,7 @@
   "repository": "netlify/victor-hugo",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint src",
+    "lint": "eslint src --fix",
     "start": "run-p start:**",
     "start:hugo": "hugo -d ../dist -s site -vw",
     "start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
