@@ -1,6 +1,6 @@
-# Rainer the bird
+# Victor Hugo
 
-**We are using Victor as boiler plate**
+**A Hugo boilerplate for creating truly epic websites**
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
 
@@ -101,3 +101,16 @@ You can access the environment variable inside the theme files with `getenv "NOD
     {{ if eq (getenv "NODE_ENV") "development" }}You're in development!{{ end }}
 
 All tasks starting with _build_ set the environment variable to `production` - the other will set it to `development`.
+
+## Deploying to Netlify
+
+- Push your clone to your own GitHub repository.
+- [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
+
+Now Netlify will build and deploy your site whenever you push to git.
+
+You can also click this button:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+
+## Enjoy!! 😸

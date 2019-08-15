@@ -1,11 +1,10 @@
 {
-    "extends": ["config:base"],
-    "rangeStrategy": "replace",
-    "lockFileMaintenance": {
-        "enabled": true,
-        "extends": "schedule:weekly"
-    },
-    "automerge": true,
-    "automergeType": "pr-comment",
-    "automergeComment": "@ChrisWeissmann: r+"
+  "extends": [
+    "config:base"
+  ],
+  "rangeStrategy": "replace",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "extends": "schedule:weekly"
+  }
 }

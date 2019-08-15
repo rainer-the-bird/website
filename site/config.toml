@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Rainer the bird"
+title = "My new Victor-Hugo site"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
