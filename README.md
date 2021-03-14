@@ -1,4 +1,7 @@
-# Victor Hugo
+# Rainer the bird deployment 
+Running the Hugo Victor template of Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f95317ce-3795-447a-b4f0-3fb3132067d9/deploy-status)](https://app.netlify.com/sites/rainterthebird/deploys)
 
 **A Hugo boilerplate for creating truly epic websites**
 
